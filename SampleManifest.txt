@@ -1,6 +1,6 @@
 # WebPosterChanger Manifest File
 # フォーマット: 画像URL, ポータル判定(true/false), リンク先(ワールドID または Web URL)
 
-https://github.com/Miminin/ImmersivePosterSample/blob/main/SampleImage4(createdByChatGPT).png, false, https://miminin.booth.pm/items/8881736
-https://github.com/Miminin/ImmersivePosterSample/blob/main/SampleImage5(createdByChatGPT).png, true, wrld_163f4180-3cc6-4422-be2e-67355ae29dc2
-https://github.com/Miminin/ImmersivePosterSample/blob/main/SampleImage1(createdByChatGPT).png, false, https://x.com/M1MiNiN
+https://raw.githubusercontent.com/Miminin/ImmersivePosterSample/refs/heads/main/SampleImage4(createdByChatGPT).png, false, https://miminin.booth.pm/items/8881736
+https://raw.githubusercontent.com/Miminin/ImmersivePosterSample/refs/heads/main/SampleImage5(createdByChatGPT).png, true, wrld_163f4180-3cc6-4422-be2e-67355ae29dc2
+https://raw.githubusercontent.com/Miminin/ImmersivePosterSample/refs/heads/main/SampleImage1(createdByChatGPT).png, false, https://x.com/M1MiNiN
