@@ -1,0 +1,6 @@
+# WebPosterChanger Manifest File
+# フォーマット: 画像URL, ポータル判定(true/false), リンク先(ワールドID または Web URL)
+
+https://example.com/posters/poster_01.png, false, https://booth.pm/ja/items/1234567
+https://example.com/posters/poster_02.png, true, wrld_12345678-abcd-1234-efgh-123456789abc
+https://example.com/posters/poster_03.png, false, https://x.com/your_account_name
